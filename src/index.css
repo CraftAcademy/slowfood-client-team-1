@@ -1,0 +1,57 @@
+body {
+  background-image: url(./food.jpg);
+  height: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  font-size: 75px;
+  font-family: sans-serif;
+  color: #EF1852;
+  text-shadow: 2px 2px 4px #8B604A;
+  display: flex;
+  flex-direction: column;
+  margin-top: 10%;
+}
+
+h2 {
+  font-size: 30px;
+  font-family: sans-serif;
+  text-align: center;
+  color: ##8B604A;
+  display: flex;
+  flex-direction: column;
+  margin-top: 15%;
+}
+
+h4 {
+  font-family: sans-serif;
+  font-size: 20px;
+  color: #EF1852;
+  display: flex;
+  flex-direction: column;
+  margin-top: 0%;
+}
+
+#root {
+  text-align: center;
+  font-family: sans-serif;
+  color: #2C120D;
+  background-color: #eeecef;
+  box-shadow: 16px 10px 15px #2C120D;
+  
+  width: 40%;
+
+  margin-left: 5%;
+  margin-top: 5%;
+  margin-bottom: 100px;
+  
+  padding-top: 20px;
+  padding-bottom: 250px;
+  padding-left: 25px;
+  padding-right: 25px;
+  
+}
